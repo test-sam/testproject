@@ -28,3 +28,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# added by Arun 8/19/2016
+Obj/
+Bin/
+UnityGenerated/
+Library/
+App/
+UWP/
