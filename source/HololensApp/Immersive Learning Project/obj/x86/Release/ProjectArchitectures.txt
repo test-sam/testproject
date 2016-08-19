@@ -1,0 +1,4 @@
+C:\Users\Strykr\Documents\Unity Projects\Immersive Learning Project\Immersive Learning Project\App\Immersive Learning Project\Immersive Learning Project.csproj;x86
+C:\Users\Strykr\Documents\Unity Projects\Immersive Learning Project\Immersive Learning Project\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Strykr\Documents\Unity Projects\Immersive Learning Project\Immersive Learning Project\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Strykr\Documents\Unity Projects\Immersive Learning Project\Immersive Learning Project\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86

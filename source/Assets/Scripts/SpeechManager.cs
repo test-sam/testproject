@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine.Windows.Speech;
 using System.Linq;
+using HoloToolkit.Unity;
 
 public class SpeechManager : MonoBehaviour 
 {
@@ -14,7 +15,7 @@ public class SpeechManager : MonoBehaviour
         // Adds Select voice command to recognizer
         keywords.Add("Select", () =>
         {
-            var focusObject = GazeGestureManager.Instance.FocusedObject;
+            var focusObject = GestureManager.Instance.FocusedObject;
             if (focusObject != null)
             {   
                 // calls the method on the focused object
